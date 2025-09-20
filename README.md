@@ -22,6 +22,8 @@ This dashboard provides insights into production and sales metrics for factories
 1. Select a year using the YEAR filter.
 2. Choose a factory from the FACTORY section.
 3. Analyze metrics and visualizations for insights into production and sales performance.
+![KOG Screenshot](kog25.PNG)
+![KOG Screenshot](KOGSA.PNG)
 
 ### Requirements
 - Microsoft Excel or compatible software and PowerBI
